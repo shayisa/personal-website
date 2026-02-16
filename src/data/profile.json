@@ -1,0 +1,13 @@
+{
+  "name": "Shay Isa",
+  "title": "AI Strategist & Technology Advisor",
+  "company": "",
+  "tagline": "Three decades of cybersecurity leadership. Now exploring the frontier of artificial intelligence.",
+  "about": "After more than thirty years leading technical teams and driving business outcomes across the cybersecurity industry — from early network engineering through executive leadership at Fortinet, Palo Alto Networks, and Blue Coat Systems — I've embarked on a new chapter focused on artificial intelligence and its transformative potential.\n\nSince transitioning from corporate leadership, I've built over twenty AI projects spanning agent infrastructure, full-stack platforms, business automation tools, mobile applications, and educational curricula. I apply the same analytical rigor and strategic mindset that defined my corporate career to exploring how AI can reshape business operations, accelerate decision-making, and create new efficiencies — and I remain deeply committed to mentorship and collaboration, helping professionals and organizations navigate this evolving landscape.",
+  "highlights": [
+    { "label": "Experience", "value": "30+ Years in Tech" },
+    { "label": "Education", "value": "B.S., Michigan State University" },
+    { "label": "Based in", "value": "Ann Arbor, MI" }
+  ],
+  "location": "Ann Arbor, Michigan"
+}

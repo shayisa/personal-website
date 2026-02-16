@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "name": "AI & Emerging Technology",
+      "skills": ["AI Strategy", "Business Automation", "Prompt Engineering", "AI-Assisted Development", "Web Development", "Application Development"]
+    },
+    {
+      "name": "Cybersecurity",
+      "skills": ["Network Security", "NGFW", "Zero Trust", "SD-WAN", "SASE", "EDR/XDR", "OT/IoT Security", "Risk Management"]
+    },
+    {
+      "name": "Leadership & Strategy",
+      "skills": ["Executive Leadership", "Team Building", "Mentorship", "Technical Strategy", "Program Development", "Performance Management"]
+    },
+    {
+      "name": "Business & Operations",
+      "skills": ["Business Development", "Technical Sales", "Operational Analysis", "Solutions Selling", "Project Management", "Strategic Planning"]
+    }
+  ]
+}

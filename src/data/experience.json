@@ -1,0 +1,58 @@
+[
+  {
+    "company": "Independent",
+    "title": "AI Strategist & Technology Advisor",
+    "period": "2025 – Present",
+    "current": true,
+    "description": "Providing strategic advisory and mentorship across technical, sales, business, and senior leadership domains. Focused on AI-driven business automation, operational analysis, application development, and collaborative knowledge-sharing."
+  },
+  {
+    "company": "Fortinet",
+    "title": "VP of Systems Engineering, US East",
+    "period": "2021 – 2025",
+    "current": false,
+    "description": "Led systems engineering teams across the US East region, achieving 117% aggregate quota over five years. Drove a 15% revenue expansion through strategic technical business development and a 35% surge in customer satisfaction metrics."
+  },
+  {
+    "company": "Fortinet",
+    "title": "Sr. Director → Director → Manager, Systems Engineering",
+    "period": "2015 – 2021",
+    "current": false,
+    "description": "Progressed through three leadership roles over six years. Elevated employee competence in technical sales by 30%, launched mentorship programs, and revamped onboarding with a comprehensive video series that increased knowledge transfer by 20%."
+  },
+  {
+    "company": "Palo Alto Networks",
+    "title": "Systems Engineer, Major Accounts",
+    "period": "2014 – 2015",
+    "current": false,
+    "description": "Architected next-generation security platform solutions for 25 major accounts. Delivered executive-level presentations and served as subject matter expert on competitive positioning across the systems engineering community."
+  },
+  {
+    "company": "Blue Coat Systems",
+    "title": "Sr. Global Systems Engineer",
+    "period": "2009 – 2014",
+    "current": false,
+    "description": "Covered global strategic accounts with deployment designs and technical solutions. Named top Blue Coat Systems Engineer for FY2011 and FY2012, achieving up to 333% of plan. Mentored new systems engineers and developed SE best practices."
+  },
+  {
+    "company": "F5 Networks",
+    "title": "Systems Architect",
+    "period": "2006 – 2009",
+    "current": false,
+    "description": "Designed and engineered WAN optimization and web acceleration solutions for enterprise clients. Delivered technical training to field systems engineers and channel partners."
+  },
+  {
+    "company": "gedas USA / T-Systems",
+    "title": "Sr. Technical Consultant & Network Strategist",
+    "period": "2002 – 2006",
+    "current": false,
+    "description": "Led network infrastructure planning and security design for Volkswagen and Audi of America. Managed organizational change initiatives, produced business proposals, and implemented cost-saving network strategies."
+  },
+  {
+    "company": "Earlier Career",
+    "title": "Network Engineering, IT Management & Consulting",
+    "period": "1992 – 2002",
+    "current": false,
+    "description": "Held progressively senior roles spanning Borders Group, Great Lakes Gas Transmission, Vertek Corporation, Interlink Networks, Fry Multimedia, and Eastern Michigan University — building expertise across enterprise networking, IT management, data center operations, product management, and technical education."
+  }
+]

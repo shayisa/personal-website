@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Agent Drift Mitigation System",
+    "description": "Built a production-ready framework that prevents AI assistants from losing context during long coding sessions. Uses vector databases, semantic search, and deterministic hooks to keep AI aligned with project rules and architectural patterns.",
+    "tags": ["AI Infrastructure", "Python", "LanceDB", "MCP"]
+  },
+  {
+    "title": "AI Newsletter Platform",
+    "description": "Full-stack platform for generating and distributing AI-powered newsletters. Features writer personas, custom audiences, content calendars, multi-format import, AI image generation, and Google Workspace integration.",
+    "tags": ["Full-Stack", "React", "API Integration", "Content"]
+  },
+  {
+    "title": "Website Redesign Engine",
+    "description": "AI-powered tool that analyzes websites across six quality dimensions and generates production-ready redesign code. Combines Claude AI for analysis, Playwright for scraping, and Next.js for the interface.",
+    "tags": ["Next.js", "TypeScript", "Claude AI", "Automation"]
+  },
+  {
+    "title": "Knowledge Service for AI Agents",
+    "description": "CLI tool and MCP server that provides coding agents with fresh API documentation, technology gotchas, UX patterns, and visual design analysis — keeping AI assistants accurate and current.",
+    "tags": ["MCP Server", "CLI", "Knowledge Base", "Developer Tools"]
+  },
+  {
+    "title": "Business Automation Suite",
+    "description": "Purpose-built tools including a Gmail-to-Notion content extractor, a privacy-first mobile expense analyzer built with Flutter, and an AI-powered research system for business proposal development.",
+    "tags": ["Automation", "Flutter", "Next.js", "Research"]
+  },
+  {
+    "title": "AI Training Curriculum",
+    "description": "Developed a comprehensive 15-session training program covering AI fundamentals, prompt engineering frameworks, non-determinism, MCP protocols, and enterprise AI architecture — designed for teaching and mentoring others.",
+    "tags": ["Education", "Curriculum Design", "Mentorship"]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Business Automation & Operational Intelligence",
+    "description": "Leveraging AI to streamline workflows, enhance decision-making, and drive measurable organizational efficiencies across diverse business contexts.",
+    "icon": "automation"
+  },
+  {
+    "title": "Strategic Research & Proposals",
+    "description": "Applying AI-powered tools to business strategy, market research, competitive analysis, and proposal development — transforming complex data into actionable insights.",
+    "icon": "research"
+  },
+  {
+    "title": "Application & Web Development",
+    "description": "Building purposeful applications and modern web experiences using AI-assisted development, designed to meet real personal and organizational needs.",
+    "icon": "development"
+  },
+  {
+    "title": "Mentorship & Collaboration",
+    "description": "Sharing knowledge across cybersecurity, AI, business strategy, and technology leadership. Always open to collaborative opportunities that challenge conventional thinking.",
+    "icon": "mentorship"
+  }
+]
