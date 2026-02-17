@@ -27,11 +27,27 @@ export default function Hero() {
       </div>
 
       <div className="section-container text-center relative z-10">
+        {/* Portrait */}
+        <motion.div
+          initial={{ opacity: 0, scale: 0.9 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ duration: 1, ease: [0.25, 0.1, 0.25, 1] }}
+          className="mb-10 inline-block"
+        >
+          <div className="relative w-44 h-44 md:w-56 md:h-56 mx-auto rounded-full ring-2 ring-accent/20 ring-offset-4 ring-offset-surface shadow-xl overflow-hidden">
+            <img
+              src={`${import.meta.env.BASE_URL}images/shay-isa.jpg`}
+              alt={profile.name}
+              className="w-full h-full object-cover object-top"
+            />
+          </div>
+        </motion.div>
+
         {/* Name */}
         <motion.h1
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.9, ease: [0.25, 0.1, 0.25, 1] }}
+          transition={{ duration: 0.9, delay: 0.15, ease: [0.25, 0.1, 0.25, 1] }}
           className="font-display font-bold text-hero text-primary mb-6"
         >
           {profile.name}
@@ -41,7 +57,7 @@ export default function Hero() {
         <motion.p
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, delay: 0.2, ease: [0.25, 0.1, 0.25, 1] }}
+          transition={{ duration: 0.8, delay: 0.35, ease: [0.25, 0.1, 0.25, 1] }}
           className="font-body text-secondary text-lg md:text-xl max-w-2xl mx-auto mb-4"
         >
           {profile.title}
@@ -54,7 +70,7 @@ export default function Hero() {
         <motion.p
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, delay: 0.4, ease: [0.25, 0.1, 0.25, 1] }}
+          transition={{ duration: 0.8, delay: 0.5, ease: [0.25, 0.1, 0.25, 1] }}
           className="font-body text-secondary/70 text-base max-w-lg mx-auto"
         >
           {profile.tagline}
