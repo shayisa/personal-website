@@ -64,6 +64,16 @@
           "title": "CCRDM Character Development Toolkit",
           "description": "A two-part methodology for ultra-realistic character development in screenwriting and film: a Behavior Performance Guide mapping psychological traits to physical acting cues, and a research module that builds narrative arcs, dialogue patterns, and director-ready performance notes.",
           "tags": ["Creative Writing", "Screenwriting", "Psychology", "Methodology"]
+        },
+        {
+          "title": "Business Analytics Dashboard",
+          "description": "A cross-platform dashboard built with Flutter for displaying business metrics, analytics charts, and activity feeds. Supports dark and light themes with responsive layouts across mobile, tablet, and desktop.",
+          "tags": ["Flutter", "Dashboard", "Analytics", "Cross-Platform"]
+        },
+        {
+          "title": "Focus Learning Solutions Website",
+          "description": "A full website build for a professional learning and development firm — 16+ pages covering programs, team profiles, industry experience, and public training schedules with booking functionality.",
+          "tags": ["HTML/CSS", "Responsive", "Multi-Page", "Booking"]
         }
       ]
     },
@@ -90,6 +100,11 @@
           "title": "Email Thread Analyzer",
           "description": "A COSTAR-based prompt tool that takes messy email threads and produces structured breakdowns — summary, issue tracking, people analysis with sentiment, action items with timelines, and resolution status. Outputs both human-readable reports and JSON.",
           "tags": ["Prompt Engineering", "Email Analysis", "Automation", "JSON"]
+        },
+        {
+          "title": "Digital Bank Acquisition Analysis",
+          "description": "A full investment committee memorandum for a digital bank acquisition — covering risk assessment, financial projections, technology due diligence, cybersecurity architecture, and a phased deployment strategy with sequential risk retirement.",
+          "tags": ["Due Diligence", "Fintech", "Risk Analysis", "Strategy"]
         }
       ]
     },
@@ -111,6 +126,11 @@
           "title": "Forensic Anthropology Assessment Framework",
           "description": "An AI-integrated assessment framework for forensic anthropology courses. Built around evidence-anchored tasks, visible reasoning logs, and verification checkpoints designed to keep AI use transparent while maintaining academic rigor. Includes a companion custom GPT for skeletal trauma analysis.",
           "tags": ["Education", "Forensic Science", "Assessment Design", "Custom GPT"]
+        },
+        {
+          "title": "Claude Code Optimization Research",
+          "description": "A curated knowledge base documenting best practices for Claude Code — context window management, token optimization techniques, MCP server evaluations, and agentic architecture patterns for efficient AI-assisted development.",
+          "tags": ["Claude Code", "Research", "MCP Servers", "Optimization"]
         }
       ]
     }
