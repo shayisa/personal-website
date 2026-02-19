@@ -28,12 +28,17 @@
           "title": "OpenClaw AI Coding Environment",
           "description": "A local environment wiring external LLMs and Brave API into a unified CLI and VS Code workflow for research, coding, and troubleshooting — focused on reproducible prompts and clean Node tooling.",
           "tags": ["Node.js", "CLI", "VS Code", "Multi-Model"]
+        },
+        {
+          "title": "Deterministic Prompt Engineering Framework",
+          "description": "A structured methodology for creating reliable, repeatable prompts across different LLMs. Combines TCRE, PARTS, ReACT, and RAIL frameworks with step-by-step information gathering, scorecard evaluation, and weakness checks. Also packaged as a reusable custom GPT.",
+          "tags": ["Prompt Engineering", "Frameworks", "Cross-LLM", "Custom GPT"]
         }
       ]
     },
     {
       "name": "Applications",
-      "description": "Full-stack apps and product designs.",
+      "description": "Apps, content platforms, and creative tools.",
       "projects": [
         {
           "title": "AI Newsletter Platform",
@@ -49,6 +54,16 @@
           "title": "Personal Finance Assistant",
           "description": "A privacy-first expenses app that imports CSV transactions and uses AI for categorization, insights, and gentle coaching — without sending financial data to third parties. Designed for on-device processing.",
           "tags": ["Fintech", "PRD", "Privacy", "AI Assistant"]
+        },
+        {
+          "title": "\"How AI Works\" Newsletter",
+          "description": "A magazine-style email newsletter covering AI developments for professors, analysts, managers, and enthusiasts. Written in long-form feature style with validated benchmarks, audience-specific examples, and custom visual assets.",
+          "tags": ["Newsletter", "Content Creation", "AI Analysis", "Writing"]
+        },
+        {
+          "title": "CCRDM Character Development Toolkit",
+          "description": "A two-part methodology for ultra-realistic character development in screenwriting and film: a Behavior Performance Guide mapping psychological traits to physical acting cues, and a research module that builds narrative arcs, dialogue patterns, and director-ready performance notes.",
+          "tags": ["Creative Writing", "Screenwriting", "Psychology", "Methodology"]
         }
       ]
     },
@@ -70,6 +85,11 @@
           "title": "Automation Consulting Blueprint",
           "description": "Researched and structured a lean consulting portfolio around automation case studies. Defined positioning, service packaging, and page layout targeting small firms that need practical AI and workflow help.",
           "tags": ["Consulting", "Strategy", "Portfolio Design"]
+        },
+        {
+          "title": "Email Thread Analyzer",
+          "description": "A COSTAR-based prompt tool that takes messy email threads and produces structured breakdowns — summary, issue tracking, people analysis with sentiment, action items with timelines, and resolution status. Outputs both human-readable reports and JSON.",
+          "tags": ["Prompt Engineering", "Email Analysis", "Automation", "JSON"]
         }
       ]
     },
@@ -86,6 +106,11 @@
           "title": "AI Training Curriculum",
           "description": "A 15-session training program covering AI fundamentals, prompt engineering, non-determinism, MCP protocols, and enterprise architecture — designed for teaching and mentoring others getting into AI.",
           "tags": ["Education", "Curriculum Design", "Mentorship"]
+        },
+        {
+          "title": "Forensic Anthropology Assessment Framework",
+          "description": "An AI-integrated assessment framework for forensic anthropology courses. Built around evidence-anchored tasks, visible reasoning logs, and verification checkpoints designed to keep AI use transparent while maintaining academic rigor. Includes a companion custom GPT for skeletal trauma analysis.",
+          "tags": ["Education", "Forensic Science", "Assessment Design", "Custom GPT"]
         }
       ]
     }
