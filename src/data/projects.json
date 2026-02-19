@@ -1,32 +1,93 @@
-[
-  {
-    "title": "Agent Drift Mitigation System",
-    "description": "Built a production-ready framework that prevents AI assistants from losing context during long coding sessions. Uses vector databases, semantic search, and deterministic hooks to keep AI aligned with project rules and architectural patterns.",
-    "tags": ["AI Infrastructure", "Python", "LanceDB", "MCP"]
-  },
-  {
-    "title": "AI Newsletter Platform",
-    "description": "Full-stack platform for generating and distributing AI-powered newsletters. Features writer personas, custom audiences, content calendars, multi-format import, AI image generation, and Google Workspace integration.",
-    "tags": ["Full-Stack", "React", "API Integration", "Content"]
-  },
-  {
-    "title": "Website Redesign Engine",
-    "description": "AI-powered tool that analyzes websites across six quality dimensions and generates production-ready redesign code. Combines Claude AI for analysis, Playwright for scraping, and Next.js for the interface.",
-    "tags": ["Next.js", "TypeScript", "Claude AI", "Automation"]
-  },
-  {
-    "title": "Knowledge Service for AI Agents",
-    "description": "CLI tool and MCP server that provides coding agents with fresh API documentation, technology gotchas, UX patterns, and visual design analysis — keeping AI assistants accurate and current.",
-    "tags": ["MCP Server", "CLI", "Knowledge Base", "Developer Tools"]
-  },
-  {
-    "title": "Business Automation Suite",
-    "description": "Purpose-built tools including a Gmail-to-Notion content extractor, a privacy-first mobile expense analyzer built with Flutter, and an AI-powered research system for business proposal development.",
-    "tags": ["Automation", "Flutter", "Next.js", "Research"]
-  },
-  {
-    "title": "AI Training Curriculum",
-    "description": "Developed a comprehensive 15-session training program covering AI fundamentals, prompt engineering frameworks, non-determinism, MCP protocols, and enterprise AI architecture — designed for teaching and mentoring others.",
-    "tags": ["Education", "Curriculum Design", "Mentorship"]
-  }
-]
+{
+  "categories": [
+    {
+      "name": "Infrastructure & Developer Tools",
+      "description": "Tools and frameworks that make AI development more reliable.",
+      "projects": [
+        {
+          "title": "Agent Drift Mitigation System",
+          "description": "A framework that keeps AI coding assistants on track during long sessions. Uses vector databases, semantic search, and hooks to automatically remind agents of project rules and patterns they'd otherwise forget.",
+          "tags": ["Python", "LanceDB", "MCP", "Hooks"]
+        },
+        {
+          "title": "Knowledge Service for AI Agents",
+          "description": "A CLI tool and MCP server that feeds coding agents fresh API docs, technology gotchas, and design patterns — with privacy controls to keep sensitive project data from leaking to external services.",
+          "tags": ["MCP Server", "CLI", "Knowledge Base", "Privacy"]
+        },
+        {
+          "title": "Sigma Design Suite",
+          "description": "Two related specs for AI-assisted development: one turns plain-English app ideas into deterministic React UI code using strict schemas, the other keeps API research, UX patterns, and app blueprints in sync for design-first workflows.",
+          "tags": ["PRD", "React", "Architecture", "Code Generation"]
+        },
+        {
+          "title": "UI-First Prototyping Agent",
+          "description": "An IDE-native agent that reads PRDs and generates isolated UI prototypes via slash commands, so layouts and flows get validated before any backend wiring or complex state management.",
+          "tags": ["VS Code", "Prototyping", "Agentic Workflows"]
+        },
+        {
+          "title": "OpenClaw AI Coding Environment",
+          "description": "A local environment wiring external LLMs and Brave API into a unified CLI and VS Code workflow for research, coding, and troubleshooting — focused on reproducible prompts and clean Node tooling.",
+          "tags": ["Node.js", "CLI", "VS Code", "Multi-Model"]
+        }
+      ]
+    },
+    {
+      "name": "Applications",
+      "description": "Full-stack apps and product designs.",
+      "projects": [
+        {
+          "title": "AI Newsletter Platform",
+          "description": "A platform for generating and distributing AI-powered newsletters. Features writer personas, content calendars, multi-format import, AI image generation, and Google Workspace integration.",
+          "tags": ["React", "Full-Stack", "API Integration", "Content"]
+        },
+        {
+          "title": "Website Redesign Engine",
+          "description": "Analyzes websites across six quality dimensions and generates production-ready redesign code. Combines Claude AI for analysis, Playwright for scraping, and Next.js for the interface.",
+          "tags": ["Next.js", "TypeScript", "Claude AI", "Automation"]
+        },
+        {
+          "title": "Personal Finance Assistant",
+          "description": "A privacy-first expenses app that imports CSV transactions and uses AI for categorization, insights, and gentle coaching — without sending financial data to third parties. Designed for on-device processing.",
+          "tags": ["Fintech", "PRD", "Privacy", "AI Assistant"]
+        }
+      ]
+    },
+    {
+      "name": "Automation & Business",
+      "description": "Workflow automation and business tools.",
+      "projects": [
+        {
+          "title": "Business Automation Suite",
+          "description": "Purpose-built tools including a Gmail-to-Notion content extractor, a privacy-first mobile expense analyzer built with Flutter, and an AI-powered research system for business proposals.",
+          "tags": ["Automation", "Flutter", "Next.js", "Research"]
+        },
+        {
+          "title": "n8n Automation Lab",
+          "description": "A self-hosted n8n setup used as a sandbox to learn and prototype AI-driven automations — combining LLM calls, APIs, and human-in-the-loop steps for real workflow deployments.",
+          "tags": ["n8n", "Self-Hosted", "Workflow Design", "AI Integration"]
+        },
+        {
+          "title": "Automation Consulting Blueprint",
+          "description": "Researched and structured a lean consulting portfolio around automation case studies. Defined positioning, service packaging, and page layout targeting small firms that need practical AI and workflow help.",
+          "tags": ["Consulting", "Strategy", "Portfolio Design"]
+        }
+      ]
+    },
+    {
+      "name": "Research & Education",
+      "description": "Explorations, teaching, and knowledge sharing.",
+      "projects": [
+        {
+          "title": "LanceDB Multimodal RAG Research",
+          "description": "Explored LanceDB and vector querying for RAG setups mixing text, images, and structured data. Mapped how this stack supports local-first or privacy-sensitive assistants for coding docs and knowledge bases.",
+          "tags": ["LanceDB", "RAG", "Multimodal", "Research"]
+        },
+        {
+          "title": "AI Training Curriculum",
+          "description": "A 15-session training program covering AI fundamentals, prompt engineering, non-determinism, MCP protocols, and enterprise architecture — designed for teaching and mentoring others getting into AI.",
+          "tags": ["Education", "Curriculum Design", "Mentorship"]
+        }
+      ]
+    }
+  ]
+}
